@@ -18,5 +18,4 @@ def RevComp(text):
         patternRC = patternRC + b
     print(patternRC)
 
-
 RevComp(text)
