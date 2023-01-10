@@ -87,21 +87,6 @@ def GibbsSampler(Dna, k, t, N):
     return best_motifs
 
 
-
-
-
-
-
-
-
-
-    # hide one random Text from Dna
-
-
-
-
-
-
 # Random Number Generator
 
 distribution = [0.1, 0.2, 0.3]
